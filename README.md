@@ -1,0 +1,1 @@
+This is an example of a web page, a photo gallery, using bootstrap version 3.

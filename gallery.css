@@ -1,0 +1,73 @@
+body {
+	padding-top: 70px;
+}
+
+.container {
+	width: 80%;
+}
+
+.navbar-inverse {
+	background: #36bfa3;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.glyphicon-picture {
+	color: white;
+}
+
+.jumbotron {
+	color: white;
+	background: #36bfa3;
+}
+
+.image1 {
+	background-image: url(https://images.unsplash.com/photo-1522336940849-92f35ff6fbb4?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80);
+}
+
+.image2 {
+	background-image: url(https://images.unsplash.com/photo-1529481342370-9d89bc837b2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+}
+
+.image3 {
+	background-image: url(https://images.unsplash.com/photo-1459199698925-99516b9fe6a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+}
+
+.image4 {
+	background-image: url(https://images.unsplash.com/photo-1527546475281-b6f9a46211e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+}
+
+.image5 {
+	background-image: url(https://images.unsplash.com/photo-1569671313489-5659dd977ff7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+}
+
+.image6 {
+	background-image: url(https://images.unsplash.com/photo-1496944180294-7a2679e9b11e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+}
+
+.image7 {
+	background-image: url(https://images.unsplash.com/photo-1582473892637-52cd9371e548?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80);
+}
+
+.image8 {
+	background-image: url(https://images.unsplash.com/photo-1534385675048-b283e5848418?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1252&q=80);
+}
+
+.image9 {
+	background-image: url(https://images.unsplash.com/photo-1582990179072-92c3b2c962e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+}
+
+.image {
+	width: 100%;
+	height: 350px;
+	background-size: cover;
+	background-position: center;
+}
+
+/*<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">*/
